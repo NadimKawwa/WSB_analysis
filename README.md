@@ -32,13 +32,12 @@ The sentiment analysis account for the following:
 Therefore this analysis takes into account the temporal effect of a post and the interaction it received on WSB Forums. 
   
 
-# Plots
+# Plots (Hosted on Datapane)
+https://datapane.com/u/nadim/reports/wsb-member-count
 
-![WSB member count](https://datapane.com/u/nadim/reports/wsb-member-count/)
+https://datapane.com/u/nadim/reports/wsb-emoj-cumsum/
 
-![Emoji Use Cumulative Sum](https://datapane.com/u/nadim/reports/wsb-emoj-cumsum/)
+https://datapane.com/u/nadim/reports/wsb-ticker-cumsum/
 
-![Mention of Stocks](https://datapane.com/u/nadim/reports/wsb-ticker-cumsum/)
-
-![7 Day Rolling Average Sentiment](https://datapane.com/u/nadim/reports/wsb-emotion-7drolling/)
+https://datapane.com/u/nadim/reports/wsb-emotion-7drolling
 
