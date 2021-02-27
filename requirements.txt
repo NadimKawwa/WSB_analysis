@@ -4,3 +4,4 @@ poorly
 emoji
 vaderSentiment
 matplotlib
+datapane
